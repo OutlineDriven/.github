@@ -1,7 +1,6 @@
 # Outline Driven Development
 
-- Overview: <https://github.com/OutlineDriven/outline-driven-development>
-
+Overview: <https://github.com/OutlineDriven/outline-driven-development>
 
 - Claude Code: <https://github.com/OutlineDriven/odin-claude-plugin>
   - Addon; Rock solid meta-reflection with codex-cli: <https://github.com/metaphorics/odin-reflector>
